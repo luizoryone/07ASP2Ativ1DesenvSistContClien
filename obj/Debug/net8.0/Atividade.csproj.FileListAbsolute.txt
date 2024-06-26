@@ -1,0 +1,14 @@
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\bin\Debug\net8.0\Atividade.exe
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\bin\Debug\net8.0\Atividade.deps.json
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\bin\Debug\net8.0\Atividade.dll
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\bin\Debug\net8.0\Atividade.pdb
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\obj\Debug\net8.0\Atividade.dll
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\obj\Debug\net8.0\Atividade.pdb
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+D:\CURSO EM CURSO\SENAI FULLSTACK\07a - SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\codigo\Atividade\obj\Debug\net8.0\ref\Atividade.dll
